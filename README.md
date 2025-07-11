@@ -1,19 +1,18 @@
 # ¡Hola! 👋
 
-Mi nombre es **[Christian Chungara Reyes]** y soy un/a apasionado/a de la tecnología, el aprendizaje continuo y los desafíos creativos. Actualmente me desempeño como **[Tu Profesión o Rol]**, con experiencia en áreas como **[Área principal de experiencia]** y **[Otra área relevante]**.
+Mi nombre es **[Christian Chungara Reyes]** y soy un/a apasionado/a de la tecnología, el aprendizaje continuo y los desafíos creativos. Actualmente me desempeño como **[Estudiante]**.
 
 Me interesa colaborar en proyectos innovadores que generen impacto positivo y me permitan seguir creciendo profesionalmente.
 
 ## 📌 Sobre mí
 
-- 🎓 Formación: [Tu carrera o estudios relevantes]
-- 💼 Experiencia: [Breve resumen de tu experiencia]
-- 💬 Intereses: [Temas que te apasionan o áreas en las que trabajas]
-- 🌍 Ubicación: [Ciudad, país — opcional]
+- 🎓 Formación: [Ing. de sistemas]
+- 💬 Intereses: [Tecnologia]
+- 🌍 Ubicación: [Cochabamba, Bolivia]
 
 ## 📫 Contacto
 
-Puedes contactarme en [tu correo electrónico] o conectarte conmigo en [LinkedIn, GitHub, etc.].
+Puedes contactarme en [capcrosty@gmail.com] o conectarte conmigo en [christianHub].
 
 ---
 
