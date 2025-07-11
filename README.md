@@ -1,14 +1,14 @@
 # ¡Hola! 👋
 
-Mi nombre es **[Christian Chungara Reyes]** y soy un/a apasionado/a de la tecnología, el aprendizaje continuo y los desafíos creativos. Actualmente me desempeño como **[Estudiante]**.
+Mi nombre es **Christian Chungara Reyes** y soy un apasionado de la tecnología, el aprendizaje continuo y los desafíos creativos. Actualmente me desempeño como **Estudiante**.
 
 Me interesa colaborar en proyectos innovadores que generen impacto positivo y me permitan seguir creciendo profesionalmente.
 
 ## 📌 Sobre mí
 
-- 🎓 Formación: [Ing. de sistemas]
-- 💬 Intereses: [Tecnologia]
-- 🌍 Ubicación: [Cochabamba, Bolivia]
+- 🎓 Formación: Ing. de sistemas
+- 💬 Intereses: Tecnologia
+- 🌍 Ubicación: Cochabamba, Bolivia
 
 ## 📫 Contacto
 
